@@ -9,6 +9,7 @@ Last commit 11th April 2024
 - This project combines Python and Weka (Waikato Environment for Knowledge Analysis).
 - Python is used to define the logic and display of the game. As well to wwrite and store the dataset latter used for classification.
 - Weka is used to generate classification models based on the stored data.
+- The original Snake game was coded by José Luis Perán, UC3M teacher.
 
 ### Brief description of the project:
 The aim of this project was to automatize the movement of the snake game to optimize the score.
@@ -31,7 +32,3 @@ With part of the *.arf* as train set and part as test set we predicted and check
 -Paths writting the *.arf* file should be modified.
 
 -Commented lines in *Snake_savearff.py* should be uncommented if one wants the movement of the Snake to be determined by classification algorithms and not by the basic movement algorithms initially implemented.
-
-
-### Program preview
-
