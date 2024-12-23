@@ -1,5 +1,6 @@
 """
-Code used on the second iteration
+made by Hugo Centeno & Javier Calvo
+last commit on the 11th April 2024
 """
 
 import pygame, sys, time, random, csv, arff
